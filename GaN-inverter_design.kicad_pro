@@ -613,6 +613,30 @@
     [
       "502195f5-7487-4127-b1ba-e4e43ed3a425",
       "Root"
+    ],
+    [
+      "4e5d6379-4b13-4f84-ba3d-7c2d507a0689",
+      "housekeeping"
+    ],
+    [
+      "dc2302ec-dc62-4a6a-b74d-90c16582ce74",
+      "microcontroller"
+    ],
+    [
+      "52f99150-414a-4c6f-90f2-a10ac93ad43a",
+      "power_stage"
+    ],
+    [
+      "f74269d3-397a-4f84-a80e-33c97a39a3c5",
+      "power_stage1"
+    ],
+    [
+      "c7264bb5-443d-411e-8ba7-c8680fee545c",
+      "power_stage2"
+    ],
+    [
+      "c3637dc1-d7aa-4b0c-a722-af7dc12011e3",
+      "DC-DC buck"
     ]
   ],
   "text_variables": {}
